@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div{
+    background-color:rgb(189, 86, 189);
+    height:600px;
+    width:600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 20px;
+    color: white;
+}
+
+img{
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: 50%;
+}
